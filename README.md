@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi, I'm Mayezer! Recent software engineering graduate from Brazil. <img src="https://flagcdn.com" alt="Bandeira do Brasil" width="30">
+  Hi, I'm Mayezer! Recent software engineering graduate from Brazil.
 
   - 🤖 I am looking for my first job in IT. My dream for the future is to work with AI and Machine Learning.
 </p>
@@ -24,7 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayezer-santana-de-souza-9436b0425)
 
 
-#👨‍💻 Skills
+# Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
