@@ -8,7 +8,7 @@
 <p>
   Hi, I'm Mayezer! Recent software engineering graduate from Brazil. <img src="https://flagcdn.com" alt="Bandeira do Brasil" width="30">
 
-  🤖 I am looking for my first job in IT. My dream for the future is to work with AI and Machine Learning.
+  - 🤖 I am looking for my first job in IT. My dream for the future is to work with AI and Machine Learning.
 </p>
 
 <!-- Dropdown -->
@@ -21,10 +21,10 @@
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mayezer.s/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mayezer-santana-de-souza-9436b0425)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayezer-santana-de-souza-9436b0425)
 
 
-##👨‍💻 Skills
+#👨‍💻 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
