@@ -8,7 +8,7 @@
 <p>
   Hi, I'm Mayezer! Recent software engineering graduate from Brazil.
 
-  - I am looking for my first job in IT. My dream for the future is to work with AI and Machine Learning. 🤖
+  - I am looking for my first job in IT. My dream for the future is to work with Back-End Senior. 🤖
 </p>
 
 <!-- Dropdown -->
