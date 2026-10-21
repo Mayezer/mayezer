@@ -8,14 +8,14 @@
 <p>
   Hi, I'm Mayezer! Recent software engineering graduate from Brazil.
 
-  - I am looking for my first job in IT. My dream for the future is to work with Back-End Senior. 🤖
+  - I am looking for my first job in IT. My dream for the future is to work with Back-End Senior.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>More about me: 📝</summary>
 
-  - Well, I am 26 years old and live in Brazil. I have experience with Python, Django, web programming, API integration, and much more. I am a native Portuguese speaker, fluent in Spanish, and have technical proficiency in English for programming.
+  - Well, I am 26 years old and live in Brazil. I have experience with Java, Python, Django, web programming, API REST, and much more. I am a native Portuguese speaker, fluent in Spanish, and have technical proficiency in English for programming.
   - Some of my hobbies include fishing, movies, airsoft, and gaming. I have a business mindset and years of experience in problem-solving, customer service, and management; I believe I have the capacity to learn even more.
 </details>
 
@@ -28,6 +28,8 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
