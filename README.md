@@ -1,5 +1,5 @@
 <!-- TÍTULO -->
-<h1 align="center">Hello everyone, I'm Mayezer! 👋</h1>
+<h1 align="center">Hello, I'm Mayezer! 👋</h1>
 
 <!-- BANNER PRINCIPAL -->
 <p align="center">
@@ -13,9 +13,8 @@
 
 
 <!-- Presentation -->
+## Software engineering junior 📚
 <p>
-  ## Software engineering junior 📚
-
   - My dream is to become a benchmark in Java back-end development 🚀
 </p>
 
