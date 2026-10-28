@@ -37,11 +37,11 @@
 <table width="100%">
   <thead>
     <tr>
-      <th align="center" width="170">Languages 💻</th>
-      <th align="center" width="170">Frameworks ⚙️</th>
-      <th align="center" width="170">Data 🗄️</th>
-      <th align="center" width="170">Web 🌐</th>
-      <th align="center" width="170">Tools 🛠️</th>
+      <th align="center" width="170">Languages</th>
+      <th align="center" width="170">Frameworks</th>
+      <th align="center" width="170">Data</th>
+      <th align="center" width="170">Web</th>
+      <th align="center" width="170">Tools</th>
     </tr>
   </thead>
   <tbody>
