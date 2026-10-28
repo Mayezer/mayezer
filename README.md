@@ -1,14 +1,13 @@
 <!-- TÍTULO -->
 <h1 align="center">Hello, I'm Mayezer! </h1>
 
-<hr>
-
 <!-- BANNER PRINCIPAL -->
 <p align="center">
   <img
     src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif"
     alt="Coding animation banner"
-    width="800"
+    width="100%"
+    height="250"
   />
 </p>
 
@@ -39,11 +38,11 @@
 <table width="100%">
   <thead>
     <tr>
-      <th align="center" width="20%">Languages</th>
-      <th align="center" width="20%">Frameworks</th>
-      <th align="center" width="20%">Data</th>
-      <th align="center" width="20%">Web</th>
-      <th align="center" width="20%">Tools</th>
+      <th align="center" width="170">Languages</th>
+      <th align="center" width="170">Frameworks</th>
+      <th align="center" width="170">Data</th>
+      <th align="center" width="170">Web</th>
+      <th align="center" width="170">Tools</th>
     </tr>
   </thead>
   <tbody>
