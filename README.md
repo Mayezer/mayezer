@@ -15,7 +15,7 @@
 <!-- Presentation -->
 ## Software engineering junior 📚
 <p>
-  - My dream is to become a benchmark in Java back-end development 🚀
+  - My dream is to become a benchmark in Java back-end development!
 </p>
 
 <!-- Dropdown -->
@@ -83,8 +83,8 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📬 Email Organizer</h3>
+    <td colspan="2" valign="top">
+      <h2 align="center">Email Organizer 📬</h2>
       <p>
         Java application that retrieves and processes
         Gmail messages, uses AI for email analysis
@@ -102,8 +102,8 @@
       </p>
     </td>
   <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🏢 Comercial Globo Vidraçaria</h3>
+    <td width="50%" valign="top">
+      <h2 align="center">Comercial Globo Vidraçaria 🏢</h2>
       <p>
         Web application for a glazing business,
         featuring a public catalog, quote requests,
@@ -112,7 +112,7 @@
       </p>
       <p>
         <strong>Tech Stack:</strong>
-        Python · Django · PostgreSQL · TypeScript · Cloudflare
+        Python · Django · PostgreSQL · Cloudflare
       </p>
       <p align="center">
         <a href="https://comercial-globo-vidracaria-e-construcao.mayezer.com/">
@@ -125,7 +125,7 @@
     </td>
   </tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚙️ Django REST API</h3>
+      <h2 align="center">Django REST API ⚙️</h2>
       <p>
         REST API for managing products, businesses,
         social media promotions and customer reviews,
