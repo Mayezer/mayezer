@@ -77,7 +77,73 @@
     </tr>
   </tbody>
 </table>
-  
+
+<!-- FEATURED PROJECTS -->
+<h2>Featured Projects 🚀</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📬 Email Organizer</h3>
+      <p>
+        Java application that retrieves and processes
+        Gmail messages, uses AI for email analysis
+        and stores records in PostgreSQL, with
+        a Django REST API for data access.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong>
+        Java · Gmail API · OpenAI API · PostgreSQL · Docker
+      </p>
+      <p align="center">
+        <a href="https://github.com/Mayezer/email-organizer">
+          <img src="https://img.shields.io/badge/Source_Code-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Email Organizer source code" />
+        </a>
+      </p>
+    </td>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🏢 Comercial Globo Vidraçaria</h3>
+      <p>
+        Web application for a glazing business,
+        featuring a public catalog, quote requests,
+        customer accounts, inventory management,
+        sales and an internal dashboard.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong>
+        Python · Django · PostgreSQL · TypeScript · Cloudflare
+      </p>
+      <p align="center">
+        <a href="https://comercial-globo-vidracaria-e-construcao.mayezer.com/">
+          <img src="https://img.shields.io/badge/Live_Website-Visit-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit live website" />
+        </a>
+        <a href="https://github.com/Mayezer/comercial-globo-vidracaria">
+          <img src="https://img.shields.io/badge/Source_Code-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Globo Vidraçaria source code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ Django REST API</h3>
+      <p>
+        REST API for managing products, businesses,
+        social media promotions and customer reviews,
+        with CRUD operations and data validation.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong>
+        Python · Django · Django REST Framework · SQLite
+      </p>
+      <p align="center">
+        <a href="https://github.com/Mayezer/django-rest-api">
+          <img src="https://img.shields.io/badge/Source_Code-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Django REST API source code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <br clear="both">
 
 <img 
