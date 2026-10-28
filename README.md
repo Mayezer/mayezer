@@ -1,5 +1,5 @@
 <!-- TÍTULO -->
-<h1 align="center">Hello, I'm Mayezer! </h1>
+<h1 align="center">Hello everyone, I'm Mayezer! 👋</h1>
 
 <!-- BANNER PRINCIPAL -->
 <p align="center">
@@ -14,9 +14,9 @@
 
 <!-- Presentation -->
 <p>
-  Software engineering junior.
+  ## Software engineering junior 📚
 
-  - My dream is to become a benchmark in Java back-end development.
+  - My dream is to become a benchmark in Java back-end development 🚀
 </p>
 
 <!-- Dropdown -->
@@ -33,16 +33,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mayezer.s/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayezer/)
 
-## Skills 👨‍💻
+# Skills 👨‍💻
 
 <table width="100%">
   <thead>
     <tr>
-      <th align="center" width="170">Languages</th>
-      <th align="center" width="170">Frameworks</th>
-      <th align="center" width="170">Data</th>
-      <th align="center" width="170">Web</th>
-      <th align="center" width="170">Tools</th>
+      <th align="center" width="170">Languages 💻</th>
+      <th align="center" width="170">Frameworks ⚙️</th>
+      <th align="center" width="170">Data 🗄️</th>
+      <th align="center" width="170">Web 🌐</th>
+      <th align="center" width="170">Tools 🛠️</th>
     </tr>
   </thead>
   <tbody>
@@ -54,12 +54,12 @@
       </td>
       <!-- FRAMEWORKS -->
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" alt="Django" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" alt="Spring" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" alt="Django" />
       </td>
       <!-- DATABASES -->
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" alt="PostgreSQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" alt="SQLite" />
       </td>
