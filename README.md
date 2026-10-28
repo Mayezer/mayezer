@@ -9,7 +9,8 @@
   <img
     src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif"
     alt="Coding animation banner"
-    width="800"
+    width="100%"
+    height="250"
   />
 
 <!-- GIF LATERAL -->
@@ -60,26 +61,22 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" alt="Java" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" alt="Python" />
       </td>
-
       <!-- FRAMEWORKS -->
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35" alt="Django" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" alt="Spring" />
       </td>
-
       <!-- DATABASES -->
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" alt="PostgreSQL" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" alt="MySQL" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" alt="SQLite" />
       </td>
-
       <!-- WEB -->
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" alt="HTML5" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" alt="CSS3" />
       </td>
-
       <!-- TOOLS -->
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" alt="VS Code" />
