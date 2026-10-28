@@ -13,7 +13,7 @@
 
 
 <!-- Presentation -->
-## Software engineering junior 📚
+## Software Engineer Junior 📚
 <p>
   - My dream is to become a benchmark in Java back-end development!
 </p>
